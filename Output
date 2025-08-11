@@ -1,0 +1,117 @@
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+1
+Enter your account number: 123
+Invalid Account Number
+
+--- Bank ---
+Press 1 for Deposite  
+Press 2 for Withdraw  
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+2
+Enter your account number: 123
+Invalid Account Number
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+3
+Enter your account number: 132
+Invalid Account Number
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+4
+Enter your account number: 123
+Invalid Account Number
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+1
+Enter your account number: 101
+Enter the amount to deposit: 
+50000
+Amount Deposited Successfully!
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+4
+Enter your account number: 101
+Current Balance for account 101 is 50000
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+2
+Enter your account number: 101
+Enter the amount to Withdraw
+5500
+Amount Withdraw Successfully
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+4
+Enter your account number: 101
+Current Balance for account 101 is 44500
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+3
+Enter your account number: 101
+Transaction History for Account 101:
+Deposited : 50000
+Withdraw : 5500
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+4
+Enter your account number: 101
+Current Balance for account 101 is 44500
+
+--- Bank ---
+Press 1 for Deposite
+Press 2 for Withdraw
+Press 3 for view Transaction History
+Press 4 for view Balance
+Press 5 for Exit
+5
+Exiting!
+
+
